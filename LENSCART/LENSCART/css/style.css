@@ -1,0 +1,3210 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+
+/* header1 */
+
+.header1 {
+    /* background-color: yellow; */
+    height: 50px;
+    width: auto;
+}
+
+.header1-box {
+    background-color: #fbfafa;
+    height: 50px;
+    width: auto;
+    position: fixed;
+}
+
+.header1-left {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.header1-left-1 {
+    display: flex;
+}
+
+.header1-left-1-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-1-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-1-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-1-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-2 {
+    display: flex;
+}
+
+.header1-left-2-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-2-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-2-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-2-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-3 {
+    display: flex;
+}
+
+.header1-left-3-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-3-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-3-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-3-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-4 {
+    display: flex;
+}
+
+.header1-left-4-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-4-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-4-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-4-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-5 {
+    display: flex;
+}
+
+.header1-left-5-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-5-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-5-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-5-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-6 {
+    display: flex;
+}
+
+.header1-left-6-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-6-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-6-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-6-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-7 {
+    display: flex;
+}
+
+.header1-left-7-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-7-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-7-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-7-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-8 {
+    display: flex;
+}
+
+.header1-left-8-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-8-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-8-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-8-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-9 {
+    display: flex;
+}
+
+.header1-left-9-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-9-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-9-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-9-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-10 {
+    display: flex;
+}
+
+.header1-left-10-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-10-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-10-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-10-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-11 {
+    display: flex;
+}
+
+.header1-left-11-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-11-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-11-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-11-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-12 {
+    display: flex;
+}
+
+.header1-left-12-text1 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-12-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-12-text2 {
+    margin: 0 12px 0 0;
+}
+
+.header1-left-12-text2 span {
+    font-size: 0.8rem;
+}
+
+.header1-left-13 {
+    display: flex;
+}
+
+.header1-left-13-text1 span {
+    font-size: 0.8rem;
+}
+
+.header1-right {
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header1-right-1-text {
+    font-size: 0.8rem;
+}
+
+/* emptysapce */
+.emptyspace {
+    height: 20px;
+    width: auto;
+    background-color:transparent
+}
+
+.emptyspace-fixed {
+    height: 20px;
+    width: auto;
+    background-color:transparent;
+    position: fixed;
+}
+
+/* header2 */
+.header2 {
+    height: 70px;
+    width: auto;
+    /* background-color: yellow; */
+}
+
+.header2-box {
+    height: 70px;
+    width: auto;
+    background-color: white;
+    position: fixed;
+}
+
+.header2-left {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.header2-left-logo img {
+    height: 60px;
+    width: auto;
+}
+
+.header2-center {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.header2-center-number {
+    margin: 0 50px 0 80px;
+}
+
+.header2-center-number img {
+    height: 30px;
+    width: auto;
+}
+
+.header2-center-search input{
+    border: 1px solid rgba(0, 0, 66, 0.5);
+    border-radius: 5px;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+    padding: 4px 7px;
+    width: 750px;
+    height: 40px;
+}
+
+.header2-right {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.header2-right-track {
+    margin: 0 20px 0 0;
+}
+
+.header2-right-track span {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.header2-right-sign {
+    margin: 0 20px 0 0;
+}
+
+.header2-right-sign-text span {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.header2-right-wish {
+    display: flex;
+    align-items: center;
+    margin: 0 20px 0 0;
+}
+.header2-right-wish-icon {
+    margin: 0 15px 0 0;
+    padding: 0 0 7px 0;
+}
+
+.header2-right-wish-icon svg{
+    height: 20px;
+    width: auto;
+}
+
+.header2-right-wish-text span {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.header2-right-cart {
+    display: flex;
+    align-items: center;
+    margin: 0 20px 0 0;
+}
+
+.header2-right-cart-icon {
+    margin: 0 15px 0 0;
+    padding: 0 0 7px 0;
+}
+
+.header2-right-cart-icon svg {
+    height: 20px;
+    width: auto;
+}
+
+.header2-right-cart-text span {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+/* header3 */
+.header3 {
+    height: 70px;
+    width: auto;
+    /* background-color: aqua; */
+}
+
+.header3-box {
+    background-color: #f3f3f3;
+    height: 70px;
+    width: auto;
+    position: fixed;
+}
+
+.header3-left {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.header-left-1 {
+    margin: 0 0 0 30px;
+}
+
+.header-left-1-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-left-2 {
+    margin: 0 0 0 20px;
+}
+
+.header-left-2-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-left-3 {
+    margin: 0 0 0 20px;
+}
+
+.header-left-3-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-left-4 {
+    margin: 0 0 0 20px;
+}
+
+.header-left-4-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-left-5 {
+    margin: 0 0 0 20px;
+}
+
+.header-left-5-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-left-6 {
+    margin: 0 0 0 20px;
+}
+
+.header-left-6-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-left-7 {
+    margin: 0 0 0 20px;
+}
+
+.header-left-7-text span{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header3-right {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.header3-right-imgbox {
+    height: 40px;
+    width: 86px;
+    /* background-color: red; */
+    margin: 0 0 0 7px;
+    border-radius: 5px;
+}
+
+.header3-right-3d {
+    background-image:url(https://static1.lenskart.com/media/desktop/img/May22/3dtryon1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header3-right-blu {
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Mar22/13-Mar/blulogo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header3-right-gold {
+    margin: 0 20px 0 0;
+    background-image: url(https://static.lenskart.com/media/desktop/img/Feb22/18-Feb/goldlogo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line1 */
+
+.line1 {
+    height: 215px;
+    width: auto;
+    background-color: #ededed;
+}
+
+.line1-1 {
+    height: 205px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-1-box {
+    height: 190px;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.line1-1-upper-box {
+    height: 140px;
+    width: 98%;
+    /* background-color: aqua; */
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/a2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line1-1-lower-box {
+    margin: 5px 0 0 0;
+    height: 30px;
+    width: 98%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-2 {
+    height: 205px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-2-box {
+    height: 190px;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.line1-2-upper-box {
+    height: 140px;
+    width: 98%;
+    /* background-color: aqua; */
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/b2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line1-2-lower-box {
+    margin: 5px 0 0 0;
+    height: 30px;
+    width: 98%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-3 {
+    height: 205px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-3-box {
+    height: 190px;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.line1-3-upper-box {
+    height: 140px;
+    width: 98%;
+    /* background-color: aqua; */
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/d2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line1-3-lower-box {
+    margin: 5px 0 0 0;
+    height: 30px;
+    width: 98%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-4 {
+    height: 205px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-4-box {
+    height: 190px;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.line1-4-upper-box {
+    height: 140px;
+    width: 98%;
+    /* background-color: aqua; */
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/d.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line1-4-lower-box {
+    margin: 5px 0 0 0;
+    height: 30px;
+    width: 98%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-5 {
+    height: 205px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-5-box {
+    height: 190px;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.line1-5-upper-box {
+    height: 140px;
+    width: 98%;
+    /* background-color: aqua; */
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/e2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line1-5-lower-box {
+    margin: 5px 0 0 0;
+    height: 30px;
+    width: 98%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-6 {
+    height: 205px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line1-6-box {
+    height: 190px;
+    width: 95%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.line1-6-upper-box {
+    height: 140px;
+    width: 98%;
+    /* background-color: aqua; */
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/d2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line1-6-lower-box {
+    margin: 5px 0 0 0;
+    height: 30px;
+    width: 98%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* line2 */
+.line2 {
+    height: 535px;
+    background-color: antiquewhite;
+}
+
+.line2-box {
+    height: 535px;
+    background-color: white;
+}
+
+.line2-img {
+    height: 520px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Sep23/Dhaakad/SKY_Home-Page-Banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line3 */
+.line3 {
+    height: 530px;
+    width: auto;
+    background-color: antiquewhite;
+}
+
+.line3-box {
+    height: 530px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line3-img {
+    height: 518px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/July23/live-wire/Web%20Banner.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line4 */
+.line4 {
+    height: 330px;
+    width: auto;
+    background-color: aqua;
+}
+
+.line4-box {
+    height: 330px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line4-img {
+    height: 330px;   
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Apr22/Bannerforexport.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* line5 */
+.line5 {
+    height: 350px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line5-box {
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line5-left {
+    height: 214px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line5-left-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.line5-left-text-wear {
+    font-size: 3rem;
+    font-weight: 50;
+}
+
+.line5-left-text-trend {
+    font-size: 3rem;
+    margin-top: -20px;
+    font-weight: 500;
+}
+
+.line5-left-text-our {
+    margin: 10px 0 0 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.line5-right {
+    height: 214px;
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+}
+
+.line5-right-chevron {
+    height: 214px;
+    width: 3%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line5-right-chevron i {
+    font-size: 1.5rem;
+    color: #bfbfbf;
+}
+
+.line5-right-box {
+    height: 214px;
+    width: 21%;
+    /* background-color: aqua; */
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.line5-right-emptybox {
+    height: 214px;
+    width: 10%;
+    /* background-color: bisque; */
+}
+
+.line5-right-round {
+    height: 214px;
+    width: 223px;
+    background-color:white;
+}
+
+.line5-right-round-img {
+    height: 108px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Sep21/image179.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line5-right-round-text {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line5-right-round-text span {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.line-right-round-button {
+    width: 100%;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line-right-round-button span {
+    padding: 8px 40px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+    background-color: #03bfbf;
+}
+
+.line5-right-cat {
+    height: 214px;
+    width: 223px;
+    background-color:white;
+}
+
+.line5-right-cat-img {
+    height: 108px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Sep21/cateeye.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line5-right-cat-text {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line5-right-cat-text span {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.line-right-cat-button {
+    width: 100%;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line-right-cat-button span {
+    padding: 8px 40px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+    background-color: #03bfbf;
+}
+
+.line5-right-club {
+    height: 214px;
+    width: 223px;
+    background-color:white;
+}
+
+.line5-right-club-img {
+    height: 108px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Sep21/clubmaster.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line5-right-club-text {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line5-right-club-text span {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.line-right-club-button {
+    width: 100%;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line-right-club-button span {
+    padding: 8px 40px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+    background-color: #03bfbf;
+}
+
+.line5-right-trans {
+    height: 214px;
+    width: 223px;
+    background-color:white;
+}
+
+.line5-right-trans-img {
+    height: 108px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Sep21/trans.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line5-right-trans-text {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line5-right-trans-text span {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.line-right-trans-button {
+    width: 100%;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line-right-trans-button span {
+    padding: 8px 40px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+    background-color: #03bfbf;
+}
+
+/* line6 */
+.line6-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line6-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line6-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line6-heading-line {
+    height: 1px;
+    width: 670px;
+    background-color: black;
+}
+
+.line6-img {
+    height: 550px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line6-img-box {
+    height: 520px;
+    background-color: aquamarine;
+}
+
+.line6-img-img {
+    height: 520px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/23may/cannes/web.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line7 */
+.line7-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line7-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line7-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line7-heading-line {
+    height: 1px;
+    width: 668px;
+    background-color: black;
+}
+
+.line7-img {
+    height: 548px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line7-img-box {
+    height: 518px;
+    background-color: aquamarine;
+}
+
+.line7-img-img {
+    height: 518px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Dec22/1-Dec/Homepage-Banner-web.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line8 */
+.line8-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line8-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line8-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line8-heading-line {
+    height: 1px;
+    width: 648px;
+    background-color: black;
+}
+
+.line8-img {
+    height: 548px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line8-img-box {
+    height: 518px;
+    background-color: aquamarine;
+}
+
+.line8-img-img {
+    height: 518px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Dec22/Web_banner.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line9 */
+.line9-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line9-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line9-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line9-heading-line {
+    height: 1px;
+    width: 666px;
+    background-color: black;
+}
+
+.line9-img {
+    height: 550px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line9-img-box {
+    height: 520px;
+    background-color: aquamarine;
+}
+
+.line9-img-img {
+    height: 520px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Jan23/sunglasses/Sun-Banner-web.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line10 */
+.line10-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line10-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line10-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line10-heading-line {
+    height: 1px;
+    width: 777px;
+    background-color: black;
+}
+
+.line10-img {
+    height: 550px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line10-img-box {
+    height: 520px;
+    background-color: aquamarine;
+}
+
+.line10-img-img {
+    height: 520px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Feb23/23feb/ojos%20banner/ojos%20banner/web%20banner/ojos-web-1199.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* LINE11 */
+.line11-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line11-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line11-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line11-heading-line {
+    height: 1px;
+    width: 490px;
+    background-color: black;
+}
+
+.line11-img {
+    height: 548px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line11-img-box {
+    height: 518px;
+    background-color: aquamarine;
+}
+
+.line11-img-img {
+    height: 518px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Oct22/kiara/Refresh-Banner-Web.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line12 */
+.line12-heading {
+    height: 80px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line12-heading-box {
+    height: 80px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line12-heading-text span{
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line12-heading-line {
+    height: 1px;
+    width: 677px;
+    background-color: black;
+}
+
+.line12-img {
+    height: 1350px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line12-img-row {
+    height: 1350px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line12-img-box {
+    height: 1327px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line12-img-left {
+    height: 1327px;
+    width: 49.5%;
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.line12-img-left-img1 {
+    height: 878px;
+    width: 97%;
+    background-color: red;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/eye-square10.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line12-img-left-img2 {
+    margin: 20px 0 0 0;
+    height: 429px;
+    width: 97%;
+    background-color: brown;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/power-sun-square.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line12-img-right {
+    height: 1327px;
+    width: 49.5%;
+    /* background-color: lightgreen; */
+}
+
+.line12-img-right-img1 {
+    height: 429px;
+    width: 97%;
+    background-color: blue;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/ce-square.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.line12-img-right-img2 {
+    margin: 20px 0 0 0;
+    height: 429px;
+    width: 97%;
+    background-color: blue;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/sun-square.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.line12-img-right-img3 {
+    margin: 20px 0 0 0;
+    height: 429px;
+    width: 97%;
+    background-color: blue;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Nov20/25-Nov/Banner03_TileDesktop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* line13 */
+.line13-heading {
+    height: 150px;
+    width: auto;
+    /* background-color: aqua; */
+}
+
+.line13-heading-row {
+    /* background-color: red; */
+    height: 150px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.line13-heading-box {
+    height: 80px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line13-heading-text span{
+     font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line13-heading-line {
+    height: 1px;
+    width: 485px;
+    background-color: black;
+}
+
+.line13-img {
+    height: 550px;
+    width: auto;
+    /* background-color: aqua; */
+}
+
+.line13-img-box {
+    height: 520px;
+    background-color: aquamarine;
+}
+
+.line13-img-img {
+    height: 520px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/May22/ojos-web.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line14 */
+.line14-heading {
+    height: 120px;
+    width: auto;
+    /* background-color: aqua; */
+}
+
+.line14-heading-row {
+    height: 120px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.line14-heading-box {
+    height: 100px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line14-heading-text span{
+     font-size: 2rem;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+.line14-heading-line {
+    height: 1px;
+    width: 630px;
+    background-color: black;
+}
+
+.line14-img {
+    height: 429px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line14-img-row {
+    height: 429px;
+    display: flex;
+    justify-content: center;
+}
+
+.line14-img-box {
+    height: 429px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line14-img-left {
+    height: 429px;
+    width: 49.5%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.line14-img-left-img {
+    height: 429px;
+    width: 97%;
+    background-color: lightgreen;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/June22/contact-lens-more.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line14-img-right {
+    height: 429px;
+    width: 49.5%;
+    /* background-color: yellow; */
+}
+
+.line14-img-right-img {
+    height: 429px;
+    width: 97%;
+    background-color: lightgreen;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/June22/contact-lens-more-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line15 */
+.line15-heading {
+    height: 150px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line15-heading-row {
+    height: 150px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.line15-heading-box {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line15-heading-text span{
+    font-size: 2rem;
+   font-weight: 400;
+   padding: 0px 20px;
+}
+
+.line15-heading-line {
+   height: 1px;
+   width: 730px;
+   background-color: black;
+}
+
+.line15-img {
+    height: 800px;
+    /* background-color: aqua; */
+}
+
+.line15-img-row {
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line15-img-box {
+    height: 778px;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line15-img-left {
+    height: 778px;
+    width: 49.5%;
+    /* background-color: lightpink; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.line15-img-left-img1 {
+    height: 330px;
+    width: 93.5%;
+    background-color: red;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/call1800.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line15-img-left-img2 {
+    margin: 20px 0 0 0;
+    height: 428px;
+    width: 93.5%;
+    background-color: green;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/hto.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line15-img-right {
+    height: 778px;
+    width: 49.5%;
+    /* background-color: lightgreen; */
+}
+
+.line15-img-right-img1 {
+    height: 330px;
+    width: 93.5%;
+    background-color: red;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Nov21/whatsapp.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line15-img-right-img2 {
+    margin: 20px 0 0 0;
+    height: 428px;
+    width: 93.5%;
+    background-color: green;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/stores.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line16 */
+.line16-heading {
+    height: 150px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line16-heading-row {
+    height: 150px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.line16-heading-box {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line16-heading-text span{
+    font-size: 2rem;
+   font-weight: 400;
+   padding: 0px 20px;
+}
+
+.line16-heading-line {
+   height: 1px;
+   width: 730px;
+   background-color: black;
+}
+
+.line16-img {
+    height: 346px;
+    width: auto;
+    background-color: antiquewhite;
+}
+
+.line16-img-box {
+    height: 346px;
+    background-color: lightsalmon;
+}
+
+.line16-img-box-img {
+    height: 346px;
+    width: 100%;
+    background-color: lightgreen;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/Desktop/VC-Banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line17 */
+.line17-heading1 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line17-heading1-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line17-heading1-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line17-heading1-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line17-heading1-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line17-heading1-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line17-heading1-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line17-img1 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line17-img1-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line17-img1-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line17-img1-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line17-img1-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/Transparent-Gold-Transparent-Full-Rim-Wayfarer-Lenskart-Air-Signia-LA-E11821-C3-Eyeglasses_lenskart-air-la-e11821-fall-rim-wfe-stais-stel-c1-eyeglasses_g_251307_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line17-img1-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_1999_05_july23.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line17-img1-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/Black-Full-Rim-Aviator-Lenskart-Air-Flex-LA-E11483-C1-Eyeglasses_lenskart-air-la-e11483-c1-eyeglasses_g_296007_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line17-img1-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line17-img1-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* 17-2 */
+.line17-heading2 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line17-heading2-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line17-heading2-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line17-heading2-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line17-heading2-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line17-heading2-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line17-heading2-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line17-img2 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line17-img2-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line17-img2-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line17-img2-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line17-img2-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vintage-vc-s15797-c2-sunglasses_g_8580_16_08_2023.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line17-img2-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-s158-vintage-1-c3-sunglasses_g_8598_16_08_2023.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line17-img2-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-blue-gradient-full-rim-aviator-vincent-chase-the-metal-edit-vc-s15804-c2-sunglasses_g_7574_09_08_2023.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line17-img2-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line17-img2-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* line17-background */
+.line17-back {
+    height: 387px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line17-back-box {
+    height: 387px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: flex-end;
+}
+
+.line17-back-img{
+    height: 347px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Nov22/Updated%20brand%20banner%20jj%20.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line18 */
+.line18-heading1 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line18-heading1-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line18-heading1-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line18-heading1-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line18-heading1-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line18-heading1-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line18-heading1-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line18-img1 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line18-img1-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line18-img1-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line18-img1-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line18-img1-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e10235-c7-eyeglasses_g_2374.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line18-img1-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e11729-c3-eyeglasses_g_3401.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line18-img1-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-rimless-jj-e12565-c3-eyeglasses_john-jacobs-rimless-jj-e12565-c3-eyeglasses_g_3253.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line18-img1-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line18-img1-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* 18-2 */
+.line18-heading2 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line18-heading2-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line18-heading2-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line18-heading2-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line18-heading2-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line18-heading2-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line18-heading2-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line18-img2 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line18-img2-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line18-img2-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line18-img2-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line18-img2-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//j/i/Gunmetal-Black-Full-Rim-Square-John-Jacobs-JJ-Tints-JJ-S13145-C2-Polarized-Sunglasses_john-jacobs-jj-e13145-c2-sunglasses_g_183318_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line18-img2-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//j/i/black-brown-solid-full-rim-wayfarer-john-jacobs-jj-tints-jj-s13227---c3-polarized-sunglasses_john-jacobs-jj-s13227-c3-sunglasses_sunglasses_g_0429_1_1_05_july23.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line18-img2-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//j/i/grey-gunmetal-full-rim-hexagonal-john-jacobs-jj-tints-jj-s12472--c2-sunglasses_john-jacobs-jj-s12472-c2-sunglasses_sunglasses_g_1972_1_1_05_july23.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line18-img2-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line18-img2-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* line18-background */
+.line18-back {
+    height: 384px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line18-back-box {
+    height: 384px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: flex-end;
+}
+
+.line18-back-img{
+    height: 344px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/25-Aug/LK-AIR-Banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line19  */
+.line19-heading1 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line19-heading1-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line19-heading1-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line19-heading1-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line19-heading1-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line19-heading1-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line19-heading1-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line19-img1 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line19-img1-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line19-img1-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line19-img1-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line19-img1-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10483-c4-eyeglasses_m_8431_1_1_1_1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line19-img1-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-2249-vc-2249-c6-eyeglasses_j_0331_1_1_1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line19-img1-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/Tortoise-Black-Full-Rim-Rectangle-Lenskart-AIR-Flex-LA-E12494-C3-Eyeglasses_vincent-chase-full-rim-rectangle-vc-e12494-c3-eyeglasses_vincent-chase-full-rim-rectangle-vc-e12494-c3-eyeglasses_J_2691_1_1_1_10_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line19-img1-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line19-img1-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* line19 back */
+.line19-background {
+    height: 386px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line19-background-box {
+    height: 386px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.line19-background-img {
+    height: 346px;
+    width: 100%;
+    background-color: aqua;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/25-Aug/LK-Readers-Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* line20 */
+.line20-heading1 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line20-heading1-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line20-heading1-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line20-heading1-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line20-heading1-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line20-heading1-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line20-heading1-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line20-img1 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line20-img1-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line20-img1-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line20-img1-imgbox {
+    height: 178px;
+    width: 24%;
+    /* background-color: purple; */
+}
+
+.line20-img1-imgbox img {
+    height: 178px;
+    width: auto;
+}
+
+/* .line20-img1-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10483-c4-eyeglasses_m_8431_1_1_1_1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line20-img1-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-2249-vc-2249-c6-eyeglasses_j_0331_1_1_1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line20-img1-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/Tortoise-Black-Full-Rim-Rectangle-Lenskart-AIR-Flex-LA-E12494-C3-Eyeglasses_vincent-chase-full-rim-rectangle-vc-e12494-c3-eyeglasses_vincent-chase-full-rim-rectangle-vc-e12494-c3-eyeglasses_J_2691_1_1_1_10_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.line20-img1-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line20-img1-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* line20 back */
+.line20-background {
+    height: 385px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line20-background-box {
+    height: 385px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.line20-background-img {
+    height: 345px;
+    width: 100%;
+    background-color: aqua;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Nov20/25-Nov/Banner05_Final2ndDec21.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* line21 */
+.line21-heading1 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line21-heading1-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line21-heading1-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line21-heading1-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line21-heading1-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line21-heading1-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line21-heading1-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line21-img1 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line21-img1-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line21-img1-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line21-img1-imgbox {
+    height: 178px;
+    width: 24%;
+    /* background-color: purple; */
+}
+
+.line21-img1-imgbox img{
+    height: 178px;
+    width: auto;
+}
+
+/* .line21-img1-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/Transparent-Gold-Transparent-Full-Rim-Wayfarer-Lenskart-Air-Signia-LA-E11821-C3-Eyeglasses_lenskart-air-la-e11821-fall-rim-wfe-stais-stel-c1-eyeglasses_g_251307_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line21-img1-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_1999_05_july23.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line21-img1-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//l/i/Black-Full-Rim-Aviator-Lenskart-Air-Flex-LA-E11483-C1-Eyeglasses_lenskart-air-la-e11483-c1-eyeglasses_g_296007_02_2022.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.line21-img1-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line21-img1-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* 17-2 */
+.line21-heading2 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line21-heading2-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line21-heading2-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line21-heading2-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line21-heading2-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line21-heading2-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line21-heading2-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line21-img2 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line21-img2-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line21-img2-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line21-img2-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line21-img2-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//h/i/peyush-bansal-shark-tank--extra-narrow-sand-dune-full-rim-hustlr-eyeglasses_csvfile-1679607472246-sandkids.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line21-img2-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//h/i/peyush-bansal-shark-tank-extra-narrow-blue-sky-full-rim-hustlr-eyeglasses_csvfile-1679607386596-bluekids.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line21-img2-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//h/i/peyush-bansal-shark-tank--extra-narrow-midnight-blue-full-rim-hustlr-eyeglasses_csvfile-1679607317429-navykids.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line21-img2-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line21-img2-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* line17-background */
+.line21-back {
+    height: 385px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line21-back-box {
+    height: 385px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: flex-end;
+}
+
+.line21-back-img{
+    height: 345px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/June22/Our-Brands-Banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line22 */
+.line22-heading1 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line22-heading1-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line22-heading1-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line22-heading1-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line22-heading1-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line22-heading1-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line22-heading1-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line22-img1 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line22-img1-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line22-img1-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line22-img1-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line22-img1-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//a/i/aqualens-10hdailies_aquacolor-mystery-hazel-powered-monthly---1lp_aqualenscolours_1lens.png-3.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line22-img1-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//a/i/aqualens-daily-disposable-contact-lenses--30-lenses-box_aqualens-daily-disposable-contact-lenses--30-lenses-box_csvfile-1681129631044-134723.png.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line22-img1-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//a/i/aqualens-24hdailies_aqualens-24-h-daily-disposable--30-lens-per-box_csvfile-1681127376568-118538.png.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line22-img1-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line22-img1-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* 17-2 */
+.line22-heading2 {
+    height: 100px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line22-heading2-row {
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.line22-heading2-box {
+    height: 50px;
+    /* background-color: red; */
+}
+
+.line22-heading2-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line22-heading2-text1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.line22-heading2-text2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4190b7;
+}
+
+.line22-heading2-line {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+.line22-img2 {
+    height: 230px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+.line22-img2-row {
+    height: 230px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line22-img2-box {
+    height: 178px;
+    /* background-color: antiquewhite; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.line22-img2-imgbox {
+    height: 178px;
+    width: 24%;
+    background-color: purple;
+}
+
+.line22-img2-img1 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//no-resize/a/i/aquacolor-brown-premium-zero-power-monthly_brown_kiara.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line22-img2-img2 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//no-resize/a/i/aquacolor-dusk-blue-premium-zero-power-monthly_dusk_blue_kiara_01_09_2023.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line22-img2-img3 {
+    background-image: url(https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/371x178/9df78eab33525d08d6e5fb8d27136e95//no-resize/a/i/aquacolor-gray-premium-zero-power-monthly_gray_kiara_01_09_2023.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.line22-img2-chevron {
+    height: 178px;
+    width: 5%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line22-img2-chevron i {
+    font-size: 3rem;
+    color: #bfbfbf;
+}
+
+/* line17-background */
+.line22-back {
+    height: 160px;
+    width: auto;
+    /* background-color: antiquewhite; */
+}
+
+
+.line22-back-box {
+    height: 160px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: flex-end;
+}
+
+.line22-back-img{
+    height: 125px;
+    width: 100%;
+    background-image: url(https://static1.lenskart.com/media/desktop/img/Aug21/25-Aug/whatsapp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* footer */
+.footer {
+    height: 300px;
+    width: auto;
+    background-color: #000081;
+}
+
+.footer-box {
+    height: 220px;
+    background-color: #000081;
+}
+
+.footer-box {
+    padding: 30px 0 0 0;
+    margin:  0 0 0 30px;
+}
+
+.footer-heading span {
+    color: white;
+}
+
+.footer-text{
+    color: white;
+    margin: 20px 0 0 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-text1 {
+    margin: 10px 0 0 0;
+}
+
+.footer-blue {
+    color: #00dbcf;
+}
+
+/* footer2 */
+.footer2 {
+    height: 200px;
+    width: auto;
+    background-color: #000081;
+}
+
+.footer2-left {
+    height: 200px;
+    /* background-color: ; */
+    display: flex;
+}
+
+.footer2-services {
+    margin: 0 0 0 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer2-services-heading span{
+    color: white;
+}
+
+.footer2-services-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer2-services-text span {
+    padding: 15px 0 0 0;
+    color: white;
+} 
+
+.footer2-about {
+    margin: 0 0 0 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer2-about-heading span {
+    color: white;
+}
+
+.footer2-about-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer2-about-text span {
+    color: white;
+    padding: 15px 0 0 0;
+}
+
+.footer2-help {
+    margin: 0 0 0 100px;
+}
+
+.footer2-help-heading span {
+    color: white;
+}
+
+.footer2-help-text {
+    margin: 15px 0 0 0;
+}
+
+.footer2-help-text span{
+    color: white;
+}
+
+.footer2-right {
+    height: 200px;
+    background-color: #000081;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer2-right-icon {
+    display: flex;
+}
+
+.footer2-right-icon1 img {
+    height: 35px;
+    width: auto;
+}
+.footer2-right-icon2 img {
+    margin: 0 0 0 5px;
+    height: 35px;
+    width: auto;
+}
+
+.footer2-right-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px 0 0 0;
+}
+
+.footer2-right-text1 span {
+    color: white;
+}
+
+.footer2-right-text2 span {
+    color: white;
+}
+
+.footer-line {
+    height: 3px;
+    width: auto;
+    background-color: #000081;
+}
+
+.footer-line-box {
+    height: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-line-line {
+    height: 1px;
+    width: 100%;
+    background-color: white;
+}
+
+.footer3 {
+    height: 100px;
+    width: auto;
+    background-color: #000081;
+}
+
+.footer3-left {
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.footer3-left-text {
+    margin: 0 0 0 30px;
+}
+
+.footer3-left-text span {
+    color: white;
+    padding: 0 30px 0 0;
+}
+
+.footer3-right {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.footer3-right-text span {
+    padding: 0 0 0 10px;
+}
+
+.footer3-right-icon {
+    margin: 0 80px 0 0;
+}
+
+.footer3-right-icon i {
+    padding: 0 0 0 15px;
+    font-size: 1.5rem;
+}
